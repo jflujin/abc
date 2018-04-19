@@ -1,5 +1,5 @@
 # abc
-## comething new
+## something new
 
 ```javascript
 (function(){
